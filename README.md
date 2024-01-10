@@ -34,7 +34,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-cerqueira-b9bb492a7)
 
 <!-- GithubStats -->
-![IBrenoS GitHub stats](https://github-readme-stats.vercel.app/api?username=IBrenoS)
+![IBrenoS GitHub stats](https://github-readme-stats.vercel.app/api?username=IBrenoS&showicons=true&theme=gotham)
 ![IBrenoS GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=IBrenoS)
 
 <!-- Portfolio -->
