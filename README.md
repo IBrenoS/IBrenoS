@@ -35,7 +35,7 @@
 
 <!-- GithubStats -->
 ![IBrenoS GitHub stats](https://github-readme-stats.vercel.app/api?username=IBrenoS)
-![IBrenoS GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=IBrenoS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph)
+![IBrenoS GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=IBrenoS)
 
 <!-- Portfolio -->
 ## Portfolio:
