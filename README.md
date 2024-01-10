@@ -35,7 +35,7 @@
 
 <!-- GithubStats -->
 ![IBrenoS GitHub stats](https://github-readme-stats.vercel.app/api?username=IBrenoS&showicons=true&theme=dracula)
-![IBrenoS GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBrenoS&layout=compact)
+![IBrenoS GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBrenoS&layout=compact&showicons=true&theme=dracula)
 
 <!-- Portfolio -->
 ## Portfolio:
