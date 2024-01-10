@@ -6,6 +6,7 @@
 
 <!--- snake --->
 <div aling="center">
+<img src="https://github.com/IBrenoS/IBrenoS/output/snake.svg" alt="Snake animation" />
 
 </div>
 
