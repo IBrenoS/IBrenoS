@@ -6,7 +6,7 @@
 
 <!--- snake --->
 <div aling="center">
-<img src="https://github.com/IBrenoS/IBrenoS/blob/main/resources/img/grid-snake.svg" 
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" 
   alt="Snake animation" /><a/>
 </div>
 
