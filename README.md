@@ -4,12 +4,6 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-/*<!--- snake --->
-<div aling="center">
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" 
-  alt="Snake animation" /><a/>
-</div>*/
-
 <br>
 
 <!-- Presentation -->
