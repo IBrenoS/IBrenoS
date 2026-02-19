@@ -1,69 +1,145 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+<!-- Typing SVG Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9B30FF&center=true&vCenter=true&width=700&lines=Breno+S.;Software+Engineering+Student;Vibe+Coder+%2B+AI+Agent+Builder;Building+in+the+dark%2C+shipping+to+the+light." alt="Typing SVG" />
 </div>
 
-<br>
+---
 
-<!-- Presentation -->
-<p>
-  Hi 👋🏼, I'm Breno! A dedicated Systems Development student from Brazil.
-  
-  - 🌱 I’m currently Systems Development at the Senai technical education institution.
+```
+  ██████╗ ██████╗ ███████╗███╗   ██╗ ██████╗ 
+  ██╔══██╗██╔══██╗██╔════╝████╗  ██║██╔═══██╗
+  ██████╔╝██████╔╝█████╗  ██╔██╗ ██║██║   ██║
+  ██╔══██╗██╔══██╗██╔══╝  ██║╚██╗██║██║   ██║
+  ██████╔╝██║  ██║███████╗██║ ╚████║╚██████╔╝
+  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ 
+```
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Systems Development, engaging in both backend and frontend tasks, contributing to innovative and impactful solutions.
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=IBrenoS&color=9b30ff&style=flat-square&label=VISITORS" />
+</div>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+---
 
-  - 💬 II'm 21 years old, currently living in Brazil. I have practical experience in languages such as Java, TypeScript, and JavaScript, as well as a solid knowledge of HTML, CSS, and frameworks like React and Django. In the Database field, I highlight my experience in design and manipulation using MongoDB. These skills have been acquired through a constant commitment to learning and the practical application of this knowledge.
+## `> whoami`
 
-  - ⚡ I appreciate reading, whether it's a good book, as well as watching movies and playing games, and I also spend time updating myself in my field of study! I believe our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details>
+```python
+class Breno:
+    role        = "Software Engineering Student 🎓"
+    location    = "Brazil 🇧🇷"
+    year        = 2026
+    mindset     = "Ship fast. Break things. Learn faster."
+    
+    current_focus = [
+        "Building AI Agents 🤖",
+        "Vibe Coding at full speed ⚡",
+        "Exploring the chaos of LLMs 🧠",
+    ]
 
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/br_sntx/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocerq/)
+    stack = {
+        "languages" : ["Python", "JavaScript", "TypeScript"],
+        "frontend"  : ["React", "Next.js", "TailwindCSS"],
+        "backend"   : ["Node.js", "FastAPI"],
+        "AI layer"  : ["LangChain", "OpenAI API", "Claude API", "Cursor", "v0"],
+        "tools"     : ["Git", "Docker", "VS Code"],
+    }
 
-<!-- GithubStats -->
-![IBrenoS GitHub stats](https://github-readme-stats.vercel.app/api?username=IBrenoS&showicons=true&theme=dracula)
-![IBrenoS GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBrenoS&layout=compact&showicons=true&theme=dracula)
+    philosophy = "Code is just a spell. The real magic is knowing what to conjure."
+```
 
-<!-- Portfolio -->
-## Portfolio:
+---
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*eIhVp0KXrXSSHORN.gif" alt="Imagem">
-</p>
+## `> current_state`
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  </div>
-  
-  <!-- Skills: Libraries -->
-  <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
-    <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="pandas" width="40" height="40"/>
-  </div>
+```bash
+$ status --check
 
+[●] Studying Software Engineering
+[●] Deep in AI Agent development
+[●] Vibe coding with LLMs as co-pilots
+[○] Sleeping (rarely)
+```
 
+---
+
+## `> tech_stack`
+
+<div align="center">
+
+<!-- Languages -->
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=9b30ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=9b30ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=9b30ff)
+
+<!-- Frontend -->
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=9b30ff)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=9b30ff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwindcss&logoColor=9b30ff)
+
+<!-- Backend -->
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=9b30ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=9b30ff)
+
+<!-- AI -->
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1a2e?style=for-the-badge&logo=openai&logoColor=9b30ff)
+![LangChain](https://img.shields.io/badge/LangChain-1a1a2e?style=for-the-badge&logo=chainlink&logoColor=9b30ff)
+
+<!-- Tools -->
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=9b30ff)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=9b30ff)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=9b30ff)
+
+</div>
+
+---
+
+## `> github_stats`
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=IBrenoS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=9b30ff&icon_color=9b30ff&text_color=c9d1d9"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBrenoS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=9b30ff&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IBrenoS&theme=tokyonight&hide_border=true&background=0d0d1a&ring=9b30ff&fire=9b30ff&currStreakLabel=9b30ff" />
+</div>
+
+---
+
+## `> activity_graph`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IBrenoS&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=9b30ff&line=9b30ff&point=ffffff" />
+</div>
+
+---
+
+## `> contact`
+
+```bash
+$ ping breno --channels
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=9b30ff)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=9b30ff)](mailto:SEU_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=9b30ff)](https://SEU_PORTFOLIO)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=9B30FF&center=true&vCenter=true&width=500&lines=%22The+code+you+write+today+is+the+spell+%22;%22that+shapes+tomorrow's+reality.%22" alt="quote" />
+</div>
+
+<!-- Dark mode snake animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IBrenoS/IBrenoS/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/IBrenoS/IBrenoS/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
