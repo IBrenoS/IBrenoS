@@ -96,14 +96,17 @@ $ status --check
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=IBrenoS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=9b30ff&icon_color=9b30ff&text_color=c9d1d9"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBrenoS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=9b30ff&text_color=c9d1d9"/>
+<!-- Streak Stats — git-streak-stats (mais estável) -->
+<img src="https://streak-stats.demolab.com?user=IBrenoS&theme=tokyonight&hide_border=true&background=0d0d1a&ring=9b30ff&fire=9b30ff&currStreakLabel=9b30ff&sideLabels=9b30ff&dates=c9d1d9&stroke=9b30ff00" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IBrenoS&theme=tokyonight&hide_border=true&background=0d0d1a&ring=9b30ff&fire=9b30ff&currStreakLabel=9b30ff" />
+
+<!-- Profile Summary Cards — linha com linguagens por repositório (muito confiável) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IBrenoS&theme=tokyonight&exclude=html" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IBrenoS&theme=tokyonight" />
+
 </div>
 
 ---
