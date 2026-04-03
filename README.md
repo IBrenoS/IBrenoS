@@ -1,18 +1,4 @@
 <!-- Typing SVG Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9B30FF&center=true&vCenter=true&width=700&lines=Breno+S.;Software+Engineering+Student;Vibe+Coder+%2B+AI+Agent+Builder;Building+in+the+dark%2C+shipping+to+the+light." alt="Typing SVG" />
-</div>
-
----
-
-```
-  ██████╗ ██████╗ ███████╗███╗   ██╗ ██████╗ 
-  ██╔══██╗██╔══██╗██╔════╝████╗  ██║██╔═══██╗
-  ██████╔╝██████╔╝█████╗  ██╔██╗ ██║██║   ██║
-  ██╔══██╗██╔══██╗██╔══╝  ██║╚██╗██║██║   ██║
-  ██████╔╝██║  ██║███████╗██║ ╚████║╚██████╔╝
-  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ 
-```
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=IBrenoS&color=9b30ff&style=flat-square&label=VISITORS" />
