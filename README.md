@@ -41,7 +41,6 @@ $ status --check
 
 [●] Studying Software Engineering
 [●] Deep in AI Agent development
-[●] Vibe coding with LLMs as co-pilots
 [○] Sleeping (rarely)
 ```
 
