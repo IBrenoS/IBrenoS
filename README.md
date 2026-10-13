@@ -1,4 +1,4 @@
-<!-- GitHub profile README | IBrenoS | Visual draft V1 -->
+<!-- GitHub profile README | IBrenoS | Visual draft V3 — GitHub Activity -->
 
 <div align="center">
 
@@ -7,6 +7,12 @@
 **Software Engineering Student · Full-Stack Developer**
 
 Salvador, Brazil · Universidade Jorge Amado (UNIJORGE)
+
+<p align="center">
+  <a href="https://github.com/IBrenoS">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=478BE6&center=true&vCenter=true&width=560&height=32&lines=Building+full-stack+applications;Exploring+software+architecture;Working+with+AI-assisted+development" alt="Animated introduction: full-stack development, software architecture and AI-assisted development" />
+  </a>
+</p>
 
 </div>
 
@@ -28,29 +34,32 @@ AI is also part of my development workflow, supporting problem-solving, code ana
 
 **Languages**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,python,java&theme=light" />
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" alt="TypeScript, JavaScript, Python and Java" height="48" />
-</picture>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Web Development**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs&theme=light" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&theme=dark" alt="React, Next.js and Node.js" height="48" />
-</picture>
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-417E38?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Data & Infrastructure**
+**Data, Cloud & Infrastructure**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,docker,linux,bash&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,docker,linux,bash&theme=light" />
-  <img src="https://skillicons.dev/icons?i=postgres,docker,linux,bash&theme=dark" alt="PostgreSQL, Docker, Linux and Bash" height="48" />
-</picture>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2C343B?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<sub>Also working with **Proxmox VE**, **Git**, **REST APIs**, **Microsoft Entra ID**, email services, and AI-assisted development tools.</sub>
+**Integrations & Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-635BCE?style=for-the-badge)
+
+<sub>Also working with **REST APIs**, email services, and AI-assisted development tools.</sub>
 
 ### Engineering Focus
 
@@ -61,6 +70,36 @@ AI is also part of my development workflow, supporting problem-solving, code ana
 ### Beyond Development
 
 I contribute to **NITE**, a student-driven technology and innovation group at **UNIJORGE**, where students collaborate on software projects, explore emerging technologies, and build solutions supported by real-world infrastructure.
+
+### GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=IBrenoS&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=IBrenoS&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;theme=default" />
+  <img src="https://github-stats-extended.vercel.app/api?username=IBrenoS&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;theme=default" alt="GitHub profile statistics: commits, contributions and repository activity" height="165" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=IBrenoS&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=IBrenoS&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=default" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IBrenoS&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=default" alt="Top languages in public GitHub repositories" height="165" />
+</picture>
+
+</div>
+
+#### Contributions in Motion
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IBrenoS/IBrenoS/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IBrenoS/IBrenoS/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/IBrenoS/IBrenoS/output/github-contribution-grid-snake.svg" alt="Animated snake traveling across the GitHub contribution calendar" />
+</picture>
+
+</div>
 
 ---
 
@@ -85,8 +124,8 @@ A inteligência artificial também faz parte do meu fluxo de desenvolvimento, au
 
 - **Linguagens:** TypeScript, JavaScript, Python e Java.
 - **Desenvolvimento web:** React, Next.js e Node.js.
-- **Dados e infraestrutura:** PostgreSQL, Docker, Linux, Bash e Proxmox VE.
-- **Integrações e ferramentas:** Git, APIs REST, Microsoft Entra ID, serviços de e-mail e ferramentas de desenvolvimento assistido por IA.
+- **Dados, cloud e infraestrutura:** PostgreSQL, Docker, Linux, Bash, Proxmox VE e Microsoft Azure.
+- **Integrações e ferramentas:** Git, Microsoft Entra ID, APIs REST, serviços de e-mail e ferramentas de desenvolvimento assistido por IA.
 
 **Áreas de atuação**
 
